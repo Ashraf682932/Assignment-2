@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+    
+    
+
+.nav-bar{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+.nav-icon{
+    text-decoration: none;
+}
+.nav-icon{
+    display: flex; text-decoration: none;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.nav-item{
+    list-style: none;
+    margin-right: 32px;
+}
+ 
