@@ -47,3 +47,12 @@ font-size: medium;
     color: aliceblue;
     text-align: center;
 }
+.banner-img{
+    width: 100%;
+}
+@media screen and (max-width:576px) {
+  .nav-bar, .nav-icon, .hero {
+    flex-direction: column;
+  }
+
+}
