@@ -54,5 +54,41 @@ font-size: medium;
   .nav-bar, .nav-icon, .hero {
     flex-direction: column;
   }
+}
+.Standard{
+    font-size: 20px;
+font-weight: 700;
+display: flex;
+text-align:center;
+}
+.team{
+    display:flex;
+}
+.box-1{
+    box-sizing: border-box;
+border: 0.94px solid rgb(222, 245, 255);
+border-radius: 18.86px;
+gap: 2px;
+box-shadow: inset 0px 0px 28.3px 0.94px rgba(0, 0, 0, 0.05);
+background: linear-gradient(180.00deg, rgb(222, 245, 255),rgba(255, 255, 255, 0) 40%),rgb(255, 255, 255);
+}
+.Curriculum{
+    margin-top: auto;
+}
+.btn-2{
+    color: rgb(100, 200, 255);
+    text-align: center;
 
+}
+.box-2{
+    box-sizing: border-box;
+    border: 0.94px solid rgb(255, 244, 220);
+    border-radius: 18.86px;
+    
+    box-shadow: inset 0px 0px 28.3px 0.94px rgba(0, 0, 0, 0.05);
+    background: linear-gradient(180.00deg, rgb(255, 244, 220),rgba(255, 255, 255, 0) 40%),rgb(255, 255, 255);
+}
+.btn-3{
+    color: rgb(240, 170, 0);
+    text-align: center;
 }
